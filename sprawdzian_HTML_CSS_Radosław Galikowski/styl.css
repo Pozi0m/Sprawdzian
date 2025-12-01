@@ -1,0 +1,26 @@
+body{
+    background-color: darkcyan;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+p{
+    line-height: 1.8;
+    text-indent: 20px;
+    margin: 10px ;
+    color:
+}
+ ul{
+    list-style-type: square;
+    padding-left: 25px;
+ }
+
+ .wyroznione{
+    color: orange;
+    font-weight: bold;
+ }
