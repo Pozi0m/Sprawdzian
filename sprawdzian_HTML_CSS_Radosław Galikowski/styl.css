@@ -7,6 +7,11 @@ body{
 h1{
     text-align: center;
     color: white;
+    transition: color 0.5s;
+}
+
+h1:hover {
+    color: red;
 }
 
 p{
@@ -24,4 +29,5 @@ p{
     color: orange;
     font-weight: bold;
  }
+
 
